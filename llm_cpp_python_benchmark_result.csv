@@ -1,0 +1,7 @@
+GPU Layers,Max Tokens,Time (s),Tokens,Tokens/sec,Notes
+16,64,9.06,47,5.19,"Slightly slower, complete but terse"
+24,64,8.74,47,5.38,"Full response, stable and coherent"
+33,64,7.39,47,6.36,Fastest and most fluent response
+16,32,6.28,33,5.25,"Cutoff mid-sentence, usable summary"
+24,32,5.61,33,5.88,"More complete than 16-layer, still clipped"
+33,32,4.81,33,6.36,Concise yet polished output
