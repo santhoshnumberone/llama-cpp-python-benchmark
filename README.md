@@ -86,7 +86,6 @@ Edit the script or pass different arguments to:
  - See how n_gpu_layers affects speed vs quality
  - Try your own prompts
 
-✅ Read the medium post [here]()
 
 
 
